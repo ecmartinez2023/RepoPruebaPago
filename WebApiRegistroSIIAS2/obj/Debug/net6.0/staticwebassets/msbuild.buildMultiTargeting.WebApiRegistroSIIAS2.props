@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiRegistroSIIAS2.props" />
+</Project>
